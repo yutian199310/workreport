@@ -32,11 +32,11 @@ section {
   padding: 60px 0;
 }
 section .heading {
-  margin: 0 0 50px 0;
-  font-size: 48px;
+  margin: 0px 0 35px 0;
+  font-size: 32px;
   font-weight: 300;
   text-align: center;
-  line-height: .8;
+  line-height: .5;
 }
 section .heading:after {
   content: '';
@@ -598,8 +598,6 @@ div[class*="col-"] > .form-group {
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-  border: none;
-  border-bottom: 1px solid #dedede;
 }
 .form-minimal .form-control:focus {
   background-color: transparent;
